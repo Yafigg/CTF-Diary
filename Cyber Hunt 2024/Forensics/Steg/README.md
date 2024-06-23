@@ -7,8 +7,8 @@ puh nggak dukun inii cuman butuh effort ajaaaaaaaaaa.
 
 Di soal steg kali ini kita lagi-lagi diberikan file gambar yang berformat .jpeg, seperti biasaa kita lihat
 metadatanya terlebih dahulu
-
-```❯ exiftool chall.jpeg
+```
+❯ exiftool chall.jpeg
 ExifTool Version Number : 12.76
 File Name : chall.jpeg
 Directory : .
@@ -43,8 +43,8 @@ DECIMAL HEXADECIMAL DESCRIPTION
 Tidak ada yang mencurigakan, karena nama soalnya steg saya curiga ini menggunakan tools steg
 seperti steghide atau yang lainnya, karena saya tidak mempunyai steghide dan adanya stegseek jadi
 mari kita coba saja.
-
-```❯ stegseek chall.jpeg ~/Assets/wordlist/rockyou.txt
+```
+❯ stegseek chall.jpeg ~/Assets/wordlist/rockyou.txt
 StegSeek 0.6 - https://github.com/RickdeJager/StegSeek
 
 [i] Found passphrase: "cyber")           
