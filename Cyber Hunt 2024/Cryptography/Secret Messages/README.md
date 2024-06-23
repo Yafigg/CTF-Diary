@@ -39,6 +39,7 @@ Dari ke 15 kemungkinan key diaatas mari kita ke Cyerchef untuk mencobanya.
 Baru mencoba kemungkinan key yang kedua yaitu CYBERSPECTERS ternyata tembus namun harus kita decode kembali hasilnya ke Base64
 
 S1jJZL5MBnT7KYWLYT9EWVXBXH9WYcdSTF99 = Vigenere Chiper : Key = CYBERSPECTERS
+
 Q1lIVU5UMjR7RUFTWV9DSEFMTF9DUllQVE99 = Base64
 
 # Summary
