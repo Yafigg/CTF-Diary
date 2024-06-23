@@ -14,7 +14,7 @@ StegSeek 0.6 - https://github.com/RickdeJager/StegSeek
 [i] Extracting to "chall.jpeg.out".
 
 ❯ cat chall.jpeg.out
-CYHUNT24{masih_easy-lahh_yaaa}```
+CYHUNT24{masih_easy-lahh_yaaa}
 
 
-# Flag: `CYHUNT24{masih_easy-lahh_yaaa}
+Flag: CYHUNT24{masih_easy-lahh_yaaa} 
