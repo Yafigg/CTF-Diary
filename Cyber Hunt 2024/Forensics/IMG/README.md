@@ -46,4 +46,6 @@ Tidak ada yang mencurigakan, step selanjutnya adalah saya mencoba melakukan steg
 bisa melihat isi pesan atau lainnya yang tersembunyi melalui filter warna.
 Setelah saya mencoba akhirnya saya berhasil menemukan flagnya 
 
+![Cyber Hunt CTF 2024](solved.png "image_tooltip")
+
 # Flag = CYHUNT24{masih_easy-lahh_yaaa}
