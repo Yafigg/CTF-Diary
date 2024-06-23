@@ -48,4 +48,6 @@ Setelah saya mencoba akhirnya saya berhasil menemukan flagnya
 
 ![Cyber Hunt CTF 2024](solved.png "image_tooltip")
 
-# Flag = CYHUNT24{masih_easy-lahh_yaaa}
+CYHUNT24{masih_pemanasan_iniii}
+
+# Flag = CYHUNT24{masih_pemanasan_iniii}
