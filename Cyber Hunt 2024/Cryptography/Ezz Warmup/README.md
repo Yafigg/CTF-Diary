@@ -15,6 +15,6 @@ Maka langsung saja kita decode di : [Beaufort Chiper](https://www.boxentriq.com/
 
 Setelah di decode kita mendapatkan Base64, mari coba kita decode.
 
-![Cyber Hunt CTF 2024](to_images.png)
+![Cyber Hunt CTF 2024](to_image.png)
 
 # Flag: CYHUNT24{k4mu_s3puh_bett_yah}
