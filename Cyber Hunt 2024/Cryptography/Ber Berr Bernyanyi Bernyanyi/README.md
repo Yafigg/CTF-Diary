@@ -7,8 +7,8 @@ mau buat lagu baru kyk somebody pleasure tutor dongg puh, flagnya format binary 
 
 Diberikan file berupa zip yang jika di ekstrak menghasilkan 4 foto dari chord gitar dan karena saya tidak bisa bermain gitar jadi saya mencari chord tersebut di google
 
-![Cyber Hunt CTF 2024](solved.png "image_tooltip")
-![Cyber Hunt CTF 2024](solved.png "image_tooltip")
+![Cyber Hunt CTF 2024](chord_picture.png"image_tooltip")
+![Cyber Hunt CTF 2024](basic_guitar_chords.png "image_tooltip")
 
 Dari foto tersebut diketahui bahwa chord dari foto foto tersebut ialah cbef, karena di hint disuru menggunakan binary jadi kita rubah menjadi binary, akan menjadi seperti berikut
 01100011 01100010 01100101 01100110
