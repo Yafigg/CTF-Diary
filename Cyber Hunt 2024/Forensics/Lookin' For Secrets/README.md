@@ -9,4 +9,4 @@ Diberikan sebuah file zip, yang ketika diekstrak akan mengeluarkan sangat banyak
 
 ![Cyber Hunt CTF 2024](solved.png)
 
-# Flag = Flag: CYHUNT24{appd4ta_c4ch3data_235wefs35}
+# Flag = CYHUNT24{appd4ta_c4ch3data_235wefs35}
