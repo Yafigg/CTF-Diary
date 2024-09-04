@@ -9,16 +9,20 @@ R = (P-1)(Q-1)
 E = 3, 5, 17, 65537
 D = e^-1 mod(r)
 ```
+```
 Example For D = 5 mod(2)
               = 5/2
               = 1
-
+```
+```
 Public Key (e, n)
 Private Key (d)
-
+```
+```
 To Encrypt = m^e mod(n)
 To Decrypt = c^d mod(n)
-
+```
+```
 Example Encrypt = p = 11
                   q = 3
                   n = 33
@@ -30,13 +34,14 @@ Example Encrypt = p = 11
                   = 7^3 = 343
                   = 343/33 = 10 Reminder 13
                   = Cipertext = 13
-
+```
+```
 To Decrypt = 13^7 mod(33)
            = 13^7 62748517
            = 62748517/33
            = 1901470 Remind 7
            = Message 7
-
+```
 Like This : 
 
 ```python
