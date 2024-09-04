@@ -1,7 +1,7 @@
 # RSA Cryptography
 
-### Disini diketahui = 
 ```
+## Disini diketahui = 
 P = Large Prime 
 Q = Large Prime 
 N = P x Q
