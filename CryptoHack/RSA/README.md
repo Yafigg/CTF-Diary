@@ -1,14 +1,14 @@
 # RSA Cryptography
 
 Disini diketahui = 
-
+```
 P = Large Prime 
 Q = Large Prime 
 N = P x Q
 R = (P-1)(Q-1)
 E = 3, 5, 17, 65537
 D = e^-1 mod(r)
-
+```
 Example For D = 5 mod(2)
               = 5/2
               = 1
