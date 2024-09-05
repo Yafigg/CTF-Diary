@@ -108,4 +108,4 @@ Type "help", "copyright", "credits" or "license" for more information.
 b'CYHUNT24{just_a_simple_algebra_am_i_right?}'
 ```
 
-## NB : Buat Seleksi LKS Cyber Sec si sekolahku wakk hehehehe, jadi maaf kalau ada yang kurang, soalnya baru terjun di cryptography hehehehe
+## NB : Baru terjun di Cryptography hehehehe, maaf kalau ada yang kurang
