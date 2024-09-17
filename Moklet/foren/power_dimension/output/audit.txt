@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Mon Jun 24 14:30:52 2024
+Invocation: foremost wallpaper.png 
+Output directory: /home/thr00n3r/CTF/Moklet/foren/power_dimension/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: wallpaper.png
+Start: Mon Jun 24 14:30:52 2024
+Length: 621 KB (636061 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	     621 KB 	          0 	  (736 x 1083)
+Finish: Mon Jun 24 14:30:52 2024
+
+1 FILES EXTRACTED
+	
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Mon Jun 24 14:30:52 2024
